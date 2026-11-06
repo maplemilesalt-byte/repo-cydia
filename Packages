@@ -1,9 +1,8 @@
-Package: com.maplemilesalt.snake3gs
-Name: Snake 3GS
-Version: 1.0
+Package: anondev.LocalIAPStore
+Name: LocalIAPStore
+Version: 2.0
 Architecture: iphoneos-arm
-Description: Snake game for iPhone 3GS
+Description: In-App-Purchases crack by anondev. I AM JUST ARCHIVING THIS
 Maintainer: Maple
-Filename: debs/com.maplemilesalt.snake3gs_1.0_iphoneos-arm.deb
-Size: 16086
-
+Filename: debs/anondev.LocalIAPStore_1.4-1_iphoneos-arm.deb
+Size: 72877056
