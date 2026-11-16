@@ -6,3 +6,13 @@ Description: In-App-Purchases crack by anondev. I AM JUST ARCHIVING THIS
 Maintainer: Maple
 Filename: debs/anondev.LocalIAPStore_1.4-1_iphoneos-arm.deb
 Size: 72877056
+Package: com.maple.iamrich
+Name: I Am Rich
+Version: 1.0
+Architecture: iphoneos-arm
+Filename: debs/IAmRich.deb
+Description: The legendary $999.99 app is back! A little piece of iOS history, now available on Cydia.
+Maintainer: Maple
+Author: Armin Heinrich
+Section: Lifestyle
+Size: 788
