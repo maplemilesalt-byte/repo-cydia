@@ -16,3 +16,8 @@ Maintainer: Maple
 Author: Armin Heinrich
 Section: Lifestyle
 Size: 788
+Package: ai.akemi.appsyncunified
+Name: AppSync Unified
+Author: Akemin
+Mantainer: Maple
+Size: 51658
